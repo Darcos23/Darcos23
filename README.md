@@ -1,20 +1,37 @@
-## 👋 Hi there, I'm Daniel Arcos!
-## 👀 About me:
-- <p align="justify"> <b>🎓 Education:</b> I'm currently a fourth-semester Systems Engineering student at Icesi University in Cali, Colombia.
-- <p align="justify"> <b>📚 Continuous Learning:</b> Currently learning and improving my knowledge of various programming languages, such as Java, through small projects.
-- <p align="justify"> <b>💡 Interests:</b> Beyond coding, I enjoy exploring new technologies and using them to address real-life challenges.
-- <p align="justify"> <b>📫 How to reach me:</b> You can connect with me on LinkedIn or send me a message via <a href="mailto:danielarc2302@gmail.com">Email</a>! I'm always open to discussing new ideas and opportunities.
+## Hello World! 🌍
 
-## 💻 Tech Stack [Skills]:
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemF3aXZrN3lidDNpbzh3OXhqcmV2c2t5OGdhMmNzNmZlbnlvM200dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4oRILGMNjVlWpbtMxJ/giphy.gif" align="right" width="250px">
 
-Here are some of the tools and technologies I work with:
+I'm Daniel Arcos, a sixth-semester Software Engineering student at Icesi University. 🤓
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+<p align="justify">I'm passionate about exploring new technologies and building small practice projects to better understand how things work. That's how I continue growing as a developer. 🚀</p>
 
-## 📊 GitHub Stats:
+<p align="justify">Right now, I'm focused on improving my programming skills and learning more about the world of backend development.</p>
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-esteban-arcos-cer%C3%B3n-82b242346/) or send me a message via <a href="mailto:danielarc2302@gmail.com">Email</a>! I'm always open to discussing new ideas and opportunities.
+
+## Tech Stack [Skills] 👨🏻‍💻:
+
+These are some of the programming languages and tools I work with:
+
+<a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://www.scala-lang.org" target="_blank"><img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"/></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CSS"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+
+##  GitHub Stats 📊:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darcos23&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&hide_rank=false&disable_animations=false&locale=en&icon_color=238ce2&bg_color=00000000" height="200" width="400" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darcos23&layout=compact&langs_count=5&card_width=320&hide_title=false&hide_border=false&bg_color=00000000" height="200" width="400" />
+  <a href="https://github.com/darcos23">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darcos23&show_icons=true&theme=default&include_all_commits=true&count_private=true&text_color=417E87&bg_color=00000000"/>
+  </a>
+  <a href="https://github.com/darcos23">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darcos23&layout=compact&langs_count=8&text_color=417E87&bg_color=00000000"/>
+  </a>
 </div>
