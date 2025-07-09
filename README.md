@@ -29,9 +29,10 @@ These are some of the programming languages and tools I work with:
 
 <div align="center">
   <a href="https://github.com/darcos23">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darcos23&show_icons=true&theme=default&include_all_commits=true&count_private=true&text_color=417E87&bg_color=00000000"/>
+    <img height="150em" src="https://github-readme-stats-dkib-darcos23s-projects.vercel.app/api?username=darcos23&show_icons=true&theme=default&include_all_commits=true&count_private=true&text_color=417E87&bg_color=00000000"/>
   </a>
+
   <a href="https://github.com/darcos23">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darcos23&layout=compact&langs_count=8&text_color=417E87&bg_color=00000000"/>
+    <img height="150em" src="https://github-readme-stats-dkib-darcos23s-projects.vercel.app/api/top-langs/?username=darcos23&layout=compact&langs_count=8&text_color=417E87&bg_color=00000000"/>
   </a>
 </div>
